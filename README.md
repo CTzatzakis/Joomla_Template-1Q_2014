@@ -1,8 +1,12 @@
 # Website Template
 
-Used by company: EnergyFirst
+Used by: EnergyFirst
 
 Time period: 02/2014 - 03/2017
+
+## Project
+
+Web application development for Engineering Company
 
 ## Website description
 
