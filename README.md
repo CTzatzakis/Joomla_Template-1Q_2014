@@ -6,11 +6,11 @@ Time period: 02/2014 - 03/2017
 
 ## Project
 
-Web application development for Engineering Company
+Web application development for an Engineering Company
 
 ## Website description
 
-A web application for Engineering Company, promoting renewable energy applications and efficiency of indoor environments (Houses, Offices, Storage Units etc.) and running maintenance. 
+A web application for an Engineering Company, promoting renewable energy applications and efficiency of indoor environments (Houses, Offices, Storage Units etc.) and running maintenance. 
 
 ## Development infrastructure
 
