@@ -1,6 +1,7 @@
 # Website Template
 
 Used by company: EnergyFirst
+
 Time period: 02/2014 - 03/2017
 
 ## Website description
@@ -10,7 +11,9 @@ A web application for Engineering Company, promoting renewable energy applicatio
 ## Development infrastructure
 
 CMS: Joomla 2.5
+
 DB: MySQL
+
 Host: Apache Server
 
 ## License
