@@ -1,0 +1,15 @@
+/* Additional CSS Styles */
+.layout-item-0
+{
+-webkit-border-radius: 7px;-moz-border-radius: 7px;border-radius: 7px;
+}
+
+.layout-item-2 {
+background: #CACACC; background: -moz-linear-gradient(top, #CACACC 0%, #ACACAE 100%); background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#CACACC), color-stop(100%,#ACACAE)); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#CACACC', endColorstr='#ACACAE',GradientType=0 ); color: #444444;
+-webkit-border-radius: 7px;-moz-border-radius: 7px;border-radius: 7px;
+}
+
+.grad td {color: #444444;}
+
+.art-blockheader .t, .art-vmenublockheader .t {white-space: nowrap;}
+/* End Additional CSS Styles */

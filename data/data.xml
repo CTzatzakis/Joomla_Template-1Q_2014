@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <categories>
+        <category id="1" title="Featured"/>
+        <category id="2" title="Articles"/>
+    </categories>
+    <articles>
+        <article id="1" category="1" title="Post" alias="article" path="/Blog Posts/post">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="2" category="2" title="Main" alias="article-1" path="/αρχικη" description="Description" keywords="Keywords">
+            <![CDATA[<div class="art-content-layout" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#C7C7C7;border-right-color:#C7C7C7;border-bottom-color:#C7C7C7;border-left-color:#C7C7C7;  border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding: 20px; width:100%" >
+        <h3><br></h3>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="3" category="2" title="Η εταιρεία:" alias="article-2" path="/εταιρεια" description="" keywords="">
+            <![CDATA[<p class="MsoNormal"><b><u><span style="line-height: 150%;"><br></span></u></b></p>
+
+<p class="MsoNormal"><b><u><span style="line-height: 150%;">Ποιοι
+είμαστε...</span></u></b></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Η ενεργειακή – κατασκευαστική εταιρεία ENERGY FIRST με
+έδρα τη Θεσσαλονίκη, δραστηριοποιείται σε όλη τη Βόρεια Ελλάδα, στους
+μηχανολογικούς τομείς, με έμφαση στην εξοικονόμηση ενέργειας σε επαγγελματικά κτήρια
+και κατοικίες.<br>
+<!--[if !supportLineBreakNewLine]--><br>
+<!--[endif]--></span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Αναλαμβάνεται η μελέτη - ο σχεδιασμός - η κατασκευή
+και η παράδοση του έργου "με το κλειδί στο χέρι", ώστε να
+διασφαλίζεται το άριστο αποτέλεσμα.<br>
+Η μακρόχρονη εμπειρία μας σε θέματα ενέργειας, μας δίνει τη δυνατότητα να
+παρέχουμε στους πελάτες μας την ιδανική λύση για κάθε χώρο.<br>
+Η Energy First πλαισιώνεται από μία δυναμική ομάδα μηχανικών με ειδίκευση στην
+εξοικονόμηση ενέργειας και στη διαχείριση έργων, καθώς και πλήθος συνεργατών
+για να σας παρέχει ολοκληρωμένες υπηρεσίες.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Διαθέτουμε εξειδικευμένο τεχνικό προσωπικό με μεγάλη
+εμπειρία, που επιμορφώνεται και εκπαιδεύεται συνεχώς, ώστε να είναι πάντα
+μπροστά από τις εξελίξεις.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Επιπλέον, διαθέτουμε συνεχή συνεργασία με συμβούλους
+επιχειρήσεων και οικονομικούς συμβούλους για να σας καλύπτουμε σε κάθε σας
+βήμα.</span></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b><u>Τι
+προσφέρουμε...</u></b></p>
+
+<ul type="disc">
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Υψηλής ποιότητας υπηρεσίες</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Ολοκληρωμένες τεχνοοικονομικές προτάσεις</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Άρτια κατασκευασμένα συστήματα</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Εγγύηση καλής λειτουργίας</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Προνομιακές τιμές σε υλικά κατασκευής και τεχνικά συνεργεία</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Λύσεις-κατασκευές «με το κλειδί στο χέρι»</span></li>
+</ul>
+
+<p class="MsoNormal"><i>Στην</i> <b><i><span lang="EN-US">ENERGY</span></i></b><b><i> </i></b><b><i><span lang="EN-US">FIRST</span></i></b> <i>κάνουμε οικονομία στην τσέπη σας, αλλά όχι στη
+δουλειά μας!</i></p>
+
+<p>&nbsp;</p>
+
+<p class="MsoNormal"><b><u><span style="line-height: 150%;">Στόχος μας
+είναι...</span></u></b></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Η <b>Energy First</b>
+απευθύνεται στον επαγγελματία, αλλά και στον ιδιώτη.<br>
+Στόχος μας είναι η παροχή υψηλής ποιότητας υπηρεσιών σε όλους τους τομείς.<br>
+Με συνέπεια, επαγγελματισμό, σωστό και ολοκληρωμένο σχεδιασμό ικανοποιούμε και
+τον πιο απαιτητικό πελάτη. Με βάση την τεχνογνωσία που διαθέτουμε, εξετάζουμε
+κάθε εφαρμογή ως ξεχωριστό έργο με ιδιαίτερες απαιτήσεις.<br>
+Στην Energy First επενδύουμε σε μακροχρόνιες σχέσεις εμπιστοσύνης με τους
+πελάτες μας, παρέχοντάς τους ολοκληρωμένες και ποιοτικές υπηρεσίες.</span></p><p><br></p>]]>
+        </article>
+        <article id="4" category="2" title="ΥΠΗΡΕΣΙΕΣ" alias="article-3" path="/υπηρεσιεσ" description="" keywords="">
+            <![CDATA[<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="730" style="width: 100%; margin-right: auto; margin-left: auto; ">
+ <tbody><tr style="height: 41.25pt; ">
+  <td width="730" colspan="3" valign="top" style="padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 41.25pt; width: 10px; ">
+  <p class="MsoNormal" align="center" style="text-align: center; "><span style="font-weight: bold;">ΕΝΕΡΓΕΙΑΚΗ
+  ΑΝΑΒΑΘΜΙΣΗ ΚΤΗΡΙΩΝ </span></p><p class="MsoNormal" align="center" style="text-align: center; "><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%ce%b5%ce%bd%ce%b5%cf%81%ce%b3%ce%b5%ce%b9%ce%b1%ce%ba%ce%b7-%ce%b1%ce%bd%ce%b1%ce%b2%ce%b1%ce%b8%ce%bc%ce%b9%cf%83%ce%b7-%ce%ba%cf%84%ce%b7%cf%81%ce%b9%cf%89%ce%bd"><img width="179" height="125" alt="" src="images/template-content/tmp8C0E.png" class="" ></a><br></p>
+  <p>&nbsp;</p>
+  </td>
+ </tr>
+ <tr style="height: 125.75pt; ">
+  <td width="240" valign="top" style="padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 125.75pt; width: 10px; ">
+  <p class="MsoNormal"><span style="font-weight: bold;">ΕΝΕΡΓΕΙΑΚΑ ΠΙΣΤΟΠΟΙΗΤΙΚΑ</span></p><p class="MsoNormal"><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%ce%b5%ce%bd%ce%b5%cf%81%ce%b3%ce%b5%ce%b9%ce%b1%ce%ba%ce%b1-%cf%80%ce%b9%cf%83%cf%84%ce%bf%cf%80%ce%bf%ce%b9%ce%b7%cf%84%ce%b9%ce%ba%ce%b1"><img width="225" height="225" alt="" src="images/template-content/tmp158C.png"></a><span style="font-weight: bold;"><br></span></p>
+  <p class="MsoNormal"><!--[if gte vml 1]><p>
+   <p>
+  </p><![endif]--><!--[if !vml]--><!--[endif]--></p>
+  </td>
+  <td width="223" valign="top" style="width: 167.05pt; padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 125.75pt; ">
+  <p class="MsoNormal"><span style="font-weight: bold;">ΗΛΙΑΚΑ ΣΥΣΤΗΜΑΤΑ </span></p><p class="MsoNormal"><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%ce%b7%ce%bb%ce%b9%ce%b1%ce%ba%ce%b1-%cf%83%cf%85%cf%83%cf%84%ce%b7%ce%bc%ce%b1%cf%84%ce%b1" style="text-decoration: underline; color: rgb(78, 142, 1); "><img width="189" height="217" src="images/template-content/clip_image006.jpg" v:shapes="Εικόνα_x0020_2" alt="" class="" ></a><span style="font-weight: bold;"><br></span></p>
+  <p class="MsoNormal"><!--[if gte vml 1]><p>
+   <p>
+  </p><![endif]--><!--[if !vml]--><!--[endif]--></p>
+  </td>
+  <td width="267" valign="top" style="width: 200.5pt; padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 125.75pt; ">
+  <p class="MsoNormal"><span style="font-weight: bold;">ΜΕΛΕΤΕΣ ΠΥΡΑΣΦΑΛΕΙΑΣ </span></p><p class="MsoNormal"><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%ce%bc%ce%b5%ce%bb%ce%b5%cf%84%ce%b5%cf%83-%cf%80%cf%85%cf%81%ce%b1%cf%83%cf%86%ce%b1%ce%bb%ce%b5%ce%b9%ce%b1%cf%83" style="text-decoration: underline; color: rgb(78, 142, 1); "><img width="225" height="225" src="images/template-content/clip_image008.jpg" v:shapes="_x0000_i1026" alt="" class="" ></a><span style="font-weight: bold;"><br></span></p>
+  <p class="MsoNormal"><!--[if gte vml 1]><p>
+   <p>
+  </p><![endif]--><!--[if !vml]--><!--[endif]--></p>
+  </td>
+ </tr>
+ <tr style="height: 41.25pt; ">
+  <td width="240" valign="top" style="padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 41.25pt; width: 10px; ">
+  <p class="MsoNormal"><span style="font-weight: bold;">ΘΕΡΜΑΝΣΗ ΚΛΙΜΑΤΙΣΜΟΣ </span></p><p class="MsoNormal"><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%ce%b8%ce%b5%cf%81%ce%bc%ce%b1%ce%bd%cf%83%ce%b7-%ce%ba%ce%bb%ce%b9%ce%bc%ce%b1%cf%84%ce%b9%cf%83%ce%bc%ce%bf%cf%83" style="text-decoration: underline; color: rgb(78, 142, 1); "><img width="226" height="165" src="images/template-content/clip_image010.jpg" v:shapes="Εικόνα_x0020_3" alt="" class="" ></a><span style="font-weight: bold;"><br></span></p>
+  <p class="MsoNormal"><!--[if gte vml 1]><p>
+   <p>
+  </p><![endif]--><!--[if !vml]--><!--[endif]--></p>
+  </td>
+  <td width="223" valign="top" style="width: 167.05pt; padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 41.25pt; ">
+  <p class="MsoNormal"><span style="font-weight: bold;">ΤΕΧΝΙΚΟΣ ΑΣΦΑΛΕΙΑΣ</span></p><p class="MsoNormal"><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%cf%84%ce%b5%cf%87%ce%bd%ce%b9%ce%ba%ce%bf%cf%83-%ce%b1%cf%83%cf%86%ce%b1%ce%bb%ce%b5%ce%b9%ce%b1%cf%83" style="text-decoration: underline; color: rgb(78, 142, 1); "><img width="208" height="130" src="images/template-content/clip_image012.jpg" v:shapes="_x0000_i1027" alt="" class=""></a><span style="font-weight: bold;"><br></span></p>
+  <p class="MsoNormal"><!--[if gte vml 1]><p>
+   <p>
+  </p><![endif]--><!--[if !vml]--><!--[endif]--></p>
+  </td>
+  <td width="267" valign="top" style="width: 200.5pt; padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 41.25pt; ">
+  <p class="MsoNormal"><span style="font-weight: bold;">Η/Μ ΜΕΛΕΤΕΣ </span></p><p class="MsoNormal"><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%ce%b7%ce%bc-%ce%bc%ce%b5%ce%bb%ce%b5%cf%84%ce%b5%cf%83"><img width="208" height="156" src="images/template-content/clip_image014.jpg" v:shapes="Εικόνα_x0020_4" alt="" class="" ></a><span style="font-weight: bold;"><br></span></p>
+  <p class="MsoNormal"><!--[if gte vml 1]><p>
+   <p>
+  </p><![endif]--><!--[if !vml]--><!--[endif]--></p>
+  </td>
+ </tr>
+ <tr style="height: 41.25pt; ">
+  <td width="730" colspan="3" valign="top" style="padding-top: 0cm; padding-right: 5.4pt; padding-bottom: 0cm; padding-left: 5.4pt; height: 41.25pt; width: 10px; ">
+  <p class="MsoNormal" align="center" style="text-align: center; "><span style="font-weight: bold;">ΧΡΗΜΑΤΟΔΟΤΙΚΑ
+  ΠΡΟΓΡΑΜΜΑΤΑ</span></p><p class="MsoNormal" align="center" style="text-align: center; "><a href="/%cf%85%cf%80%ce%b7%cf%81%ce%b5%cf%83%ce%b9%ce%b5%cf%83/%cf%87%cf%81%ce%b7%ce%bc%ce%b1%cf%84%ce%bf%ce%b4%ce%bf%cf%84%ce%b9%ce%ba%ce%b1-%cf%80%cf%81%ce%bf%ce%b3%cf%81%ce%b1%ce%bc%ce%bc%ce%b1%cf%84%ce%b1"><img width="226" height="151" src="images/template-content/clip_image016.jpg" v:shapes="_x0000_i1028" alt="" class=""></a><span style="font-weight: bold;"><br></span></p>
+  <p class="MsoNormal" align="center" style="text-align: center; "><!--[if gte vml 1]><p>
+   <p>
+  </p><![endif]--><!--[if !vml]--><!--[endif]--></p>
+  </td>
+ </tr>
+</tbody></table><p><span style="border-collapse: collapse;"><br></span></p>]]>
+        </article>
+        <article id="5" category="2" title="s" alias="article-4" path="/υπηρεσιεσ/ενεργειακη-αναβαθμιση-κτηριων" description="" keywords="">
+            <![CDATA[<p><span style="border-collapse: collapse;"><br></span></p>]]>
+        </article>
+        <article id="6" category="2" title="New Page" alias="article-5" path="/υπηρεσιεσ/ενεργειακη-αναβαθμιση-κτηριων/οικιακα-επαγγελματικα" description="" keywords="">
+            <![CDATA[<p><br></p>]]>
+        </article>
+        <article id="7" category="2" title="ΕΝΕΡΓΕΙΑΚΑ ΠΙΣΤΟΠΟΙΗΤΙΚΑ" alias="article-6" path="/υπηρεσιεσ/ενεργειακα-πιστοποιητικα" description="" keywords="">
+            <![CDATA[<p class="MsoNormal"><u style="font-weight: bold;">ΕΝΕΡΓΕΙΑΚΗ ΕΠΙΘΕΩΡΗΣΗ</u></p>
+
+<p class="MsoNormal">Το Πιστοποιητικό Ενεργειακής Απόδοσης (ΠΕΑ) είναι
+αναγνωρισμένο έγγραφο από το ΥΠΕΚΑ στο οποία αποτυπώνεται η ενεργειακή τάξη του
+κτηρίου ή μέρους αυτού, γίνεται εκτίμηση της κατανάλωσης πρωτογενούς ενέργειας του
+κτηρίου ανά τελική χρήση και γίνονται προτάσεις από τον ενεργειακό επιθεωρητή
+για τη βελτίωση της ενεργειακής τάξης του κτηρίου.</p>
+
+<p class="MsoNormal">Η έκδοση πιστοποιητικού ενεργειακής απόδοσης απαιτείται από
+9/1/2011 για κάθε κτίσμα άνω των 50 τ.μ. :</p>
+
+<p class="MsoListParagraphCxSpFirst" style="margin-left: 39.75pt; text-indent: -18pt;"><span style="font-family: Wingdings;">&nbsp;&nbsp;</span><!--[endif]-->Σε νέα κτίσματα ή πλήρως ανακαινισμένα</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 39.75pt; text-indent: -18pt;"><span style="font-family: Wingdings;">&nbsp;&nbsp;</span><!--[endif]-->Σε υφιστάμενα κτήρια όταν πρόκειται για αγορά ή
+ενοικίαση αυτών</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-left: 39.75pt; text-indent: -18pt;"><span style="font-family: Wingdings;">&nbsp;&nbsp;</span><!--[endif]-->Σε εμπορικά κτήρια όταν υπάρχει αλλαγή χρήσης</p>
+
+<p class="MsoListParagraphCxSpLast" style="margin-left: 39.75pt; text-indent: -18pt;"><span style="font-family: Wingdings;">&nbsp;&nbsp;</span><!--[endif]-->Κατά την ένταξη του κτηρίου στο πρόγραμμα «Εξοικονομώ
+κατ’ οίκων»</p>
+
+<p class="MsoNormal">Δεν χρειάζεται να εκδοθεί στις περιπτώσεις όπου το κτίσμα
+έχει χρήση βιοτεχνίας, βιομηχανίας, αποθήκη, πάρκινγκ, καθώς και σε ανανέωση
+μίσθωσης.</p>
+
+<p class="MsoNormal">Το ΠΕΑ ισχύει για 10 χρόνια από την έκδοση του.</p>
+
+<p class="MsoNormal">Η <span lang="EN-US">Energy</span> <span lang="EN-US">First</span> αναλαμβάνει γρήγορα και υπεύθυνα την έκδοση ΠΕΑ σε όλη τη
+Βόρεια Ελλάδα. Η έκδοση γίνεται σε όλα τα στάδια (αυτοψία-μελέτη-έκδοση) από
+Διπλ. Μηχανολόγο Μηχανικό εγγεγραμμένο στο μητρώο ενεργειακών επιθεωρητών, και
+περιλαμβάνει προτάσεις και συμβουλές για εξοικονόμηση ενέργειας στο κτήριό σας.
+</p>
+
+<p class="MsoNormal">Επικοινωνήστε μαζί μας για περισσότερες λεπτομέρειες.</p>
+
+<br clear="all" style="page-break-before: always;">
+
+
+<p>&nbsp;</p><p><br></p>]]>
+        </article>
+        <article id="8" category="2" title="New Page" alias="article-7" path="/υπηρεσιεσ/ηλιακα-συστηματα" description="" keywords="">
+            <![CDATA[<p class="MsoNormal"><b><u><span style="line-height: 150%;">Ηλιακά-Ηλιοθερμικά συστήματα:</span></u></b></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Ο ήλιος
+είναι μία ανεξάντλητη πηγή ενέργειας και παρέχεται δωρεάν. Μπορούμε να τον
+εκμεταλλευτούμε με διάφορους τρόπους, όπως για τη θέρμανση του ζεστού νερού
+χρήσης, τη θέρμανση του κτηρίου μας, ή/και τη θέρμανση της πισίνας.</span></p>
+
+<p class="MsoNormal"><u><span style="line-height: 150%;">Ζεστό νερό
+χρήσης</span></u></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Η Ελλάδα
+χαρακτηρίζεται από μεγάλη ηλιοφάνεια σχεδόν όλες τις ημέρες του έτους.
+Εκμεταλλευτείτε τον δωρεάν ήλιο και σταματήστε να πληρώνετε για να ζεστάνετε το
+νερό χρήσης. Η</span> <span lang="EN-US" style="line-height: 150%;">Energy</span> <span lang="EN-US" style="line-height: 150%;">First</span> <span style="line-height: 150%;">μελετά τις
+ανάγκες σας και σας προσφέρει πλήρες ηλιακό σύστημα σε ανταγωνιστικές τιμές.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Εξετάζουμε
+κάθε έργο ξεχωριστά, διότι οι ανάγκες είναι πάντα διαφορετικές.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Με μεγάλη
+εμπειρία σε ξενοδοχειακές μονάδες, οι μηχανικοί της</span> <span lang="EN-US" style="line-height: 150%;">Energy</span> <span lang="EN-US" style="line-height: 150%;">First</span> <span style="line-height: 150%;">καλύπτουν ακόμα και τα πιο απαιτητικά κτήρια και σας προσφέρουν κάλυψη
+μέχρι 90% σε ζεστό νερό.</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Καταγράφουμε τις ανάγκες σας</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Σχεδιάζουμε το σύστημα με χρήση κατάλληλου λογισμικού</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Σας παρουσιάζουμε πλήρη τεχνοοικονομική μελέτη για να γνωρίζετε εκ των
+προτέρων τι θα κερδίσετε και πότε θα γίνει η απόσβεση της επένδυσης</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Κατασκευάζουμε το σύστημα</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Σας το παραδίδουμε με το κλειδί στο χέρι και αναλαμβάνουμε την πλήρη ευθύνη
+του έργου</span></p>
+
+<p class="MsoNormal" style="margin-left: 18pt;"><span style="line-height: 150%;">Η</span> <span lang="EN-US" style="line-height: 150%;">Energy</span> <span lang="EN-US" style="line-height: 150%;">First</span> <span style="line-height: 150%;">δίπλα σας
+σε κάθε βήμα!</span></p>
+
+<p class="MsoNormal" style="margin-left: 18pt;"><span style="line-height: 150%;">Κάθε στιγμή ένας από τους μηχανικούς μας είναι διαθέσιμος για εσάς!</span></p><p><br></p>]]>
+        </article>
+        <article id="9" category="2" title="New Page" alias="article-8" path="/υπηρεσιεσ/ηλιακα-συστηματα/ζνχ-πισινα-ηλιακη-θερμανση" description="" keywords="">
+            <![CDATA[<p><br></p>]]>
+        </article>
+        <article id="10" category="2" title="New Page" alias="article-9" path="/υπηρεσιεσ/μελετεσ-πυρασφαλειασ" description="" keywords="">
+            <![CDATA[<p><br></p>]]>
+        </article>
+        <article id="11" category="2" title="New Page" alias="article-10" path="/υπηρεσιεσ/θερμανση-κλιματισμοσ" description="" keywords="">
+            <![CDATA[<p class="MsoNormal"><b><u><span style="line-height: 150%;">Θέρμανση - Κλιματισμός:</span></u></b></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Το κάθε
+σύστημα θέρμανσης πρέπει να εξασφαλίζει στα άτομα που το χρησιμοποιούν:</span></p>
+
+<ul type="disc">
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Ασφάλεια των ατόμων, του
+ κτηρίου, καθώς και των γειτονικών κτηρίων</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Θερμική άνεση</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Εξοικονόμηση ενέργειας</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Βέλτιστο κόστος λειτουργίας</span></li>
+</ul>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Οι μηχανικοί
+της</span> <span lang="EN-US" style="line-height: 150%;">Energy</span> <span lang="EN-US" style="line-height: 150%;">First</span> <span style="line-height: 150%;">χάρη στην εμπειρία και την τεχνογνωσία που διαθέτουν,
+σας εξασφαλίζουν τα παραπάνω και σας εγγυώνται για το αποτέλεσμα.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Με ειδίκευση
+στα επαγγελματικά κτήρια (ξενοδοχεία, βιομηχανικούς χώρους), διαθέτουμε το
+κατάλληλο σύστημα για κάθε κτήριο, όσο απαιτητικό και αν είναι.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Η μείωση του
+κόστους επιτυγχάνεται με σωστό σχεδιασμό και εφαρμογή του συστήματος. Επιλέξαμε
+τα καλύτερα και πιο αξιόπιστα συστήματα θέρμανσης-κλιματισμού και σας τα
+προτείνουμε.</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">ü&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Μελετάμε το χώρο σας</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">ü&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Συγκρίνουμε τα συστήματα θέρμανσης</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">ü&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Υπολογίζουμε τι θα κερδίζετε και το χρόνο απόσβεσης της επένδυσης</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">ü&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Επιλέγουμε το ιδανικό σύστημα</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">ü&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Σχεδιάζουμε τον τρόπο κατασκευής</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">ü&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Υλοποιούμε το έργο και σας το παραδίδουμε «με το κλειδί στο χέρι»</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Είμαστε
+σίγουροι για το αποτέλεσμα, γι’ αυτό σας παρέχουμε εγγύηση καλής λειτουργίας.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Μερικά από
+τα συστήματα που διαθέτουμε για εσάς...</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Αντλίες θερμότητας για θέρμανση και ψύξη του κτηρίου σας</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Λέβητες φυσικού αερίου</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Λέβητες συμπυκνωμάτων πετρελαίου</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Ενδοδαπέδια θέρμανση γερμανικής τεχνολογίας</span></p>
+
+<p class="MsoNormalCxSpMiddle" style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="line-height: 150%; font-family: Wingdings;">Ø&nbsp;
+</span><!--[endif]--><span style="line-height: 150%;">Ηλιακά συστήματα για υποστήριξη θέρμανσης, κ.ά.</span></p>
+
+<span style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">Επικοινωνήστε με την</span> <span lang="EN-US" style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">ENERGY</span> <span lang="EN-US" style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">FIRST</span> <span style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">σήμερα για δωρεάν
+τεχνοοικονομική προμελέτη του κτηρίου σας.</span><p><br></p>]]>
+        </article>
+        <article id="12" category="2" title="ΘΕΡΜΑΝΣΗ ΚΛΙΜΑΤΙΣΜΟΣ" alias="article-11" path="/υπηρεσιεσ/θερμανση-κλιματισμοσ/θερμανση-κλιματισμοσ" description="" keywords="">
+            <![CDATA[<p class="MsoNormal"><b><u><span style="line-height: 150%;">Θέρμανση - Κλιματισμός:</span></u></b></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Το κάθε
+σύστημα θέρμανσης πρέπει να εξασφαλίζει στα άτομα που το χρησιμοποιούν:</span></p>
+
+<ul type="disc">
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Ασφάλεια των ατόμων, του
+ κτηρίου, καθώς και των γειτονικών κτηρίων</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Θερμική άνεση</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Εξοικονόμηση ενέργειας</span></li>
+<li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;">Βέλτιστο κόστος λειτουργίας</span></li>
+</ul>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Οι μηχανικοί
+της</span> <span lang="EN-US" style="line-height: 150%;">Energy</span> <span lang="EN-US" style="line-height: 150%;">First</span> <span style="line-height: 150%;">χάρη στην εμπειρία και την τεχνογνωσία που διαθέτουν,
+σας εξασφαλίζουν τα παραπάνω και σας εγγυώνται για το αποτέλεσμα.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Με ειδίκευση
+στα επαγγελματικά κτήρια (ξενοδοχεία, βιομηχανικούς χώρους), διαθέτουμε το
+κατάλληλο σύστημα για κάθε κτήριο, όσο απαιτητικό και αν είναι.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Η μείωση του
+κόστους επιτυγχάνεται με σωστό σχεδιασμό και εφαρμογή του συστήματος. Επιλέξαμε
+τα καλύτερα και πιο αξιόπιστα συστήματα θέρμανσης-κλιματισμού και σας τα
+προτείνουμε.</span></p>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle">&nbsp;<span style="line-height: 19px;">Μελετάμε το χώρο σας</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle">&nbsp;<span style="line-height: 19px;">Συγκρίνουμε τα συστήματα θέρμανσης</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle">&nbsp;<span style="line-height: 19px;">Υπολογίζουμε τι θα κερδίζετε και το χρόνο απόσβεσης της επένδυσης</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle">&nbsp;<span style="line-height: 19px;">Επιλέγουμε το ιδανικό σύστημα</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle">&nbsp;<span style="line-height: 19px;">Σχεδιάζουμε τον τρόπο κατασκευής</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle">&nbsp;<span style="line-height: 19px;">Υλοποιούμε το έργο και σας το παραδίδουμε «με το κλειδί στο χέρι»</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Είμαστε
+σίγουροι για το αποτέλεσμα, γι’ αυτό σας παρέχουμε εγγύηση καλής λειτουργίας.</span></p>
+
+<p class="MsoNormal"><span style="line-height: 150%;">Μερικά από
+τα συστήματα που διαθέτουμε για εσάς...</span></p><div style="margin-left: 2em"></div><ul type="disc"><li class="MsoNormalCxSpMiddle"><span style="line-height: 19px;"><span style="font-family: Wingdings;">&nbsp;</span>Αντλίες θερμότητας για θέρμανση και ψύξη του κτηρίου σας</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle"><span style="line-height: 150%; font-family: Wingdings;">&nbsp;</span><span style="line-height: 150%;">Λέβητες φυσικού αερίου</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle">&nbsp; <span style="line-height: 19px;">Λέβητες συμπυκνωμάτων πετρελαίου</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;"><span style="font-family: Wingdings;">&nbsp;</span>Ενδοδαπέδια θέρμανση γερμανικής τεχνολογίας</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<ul type="disc"><li class="MsoNormalCxSpMiddle"><span style="line-height: 150%;"><span style="font-family: Wingdings;">&nbsp;</span>Ηλιακά συστήματα για υποστήριξη θέρμανσης, κ.ά.</span><br></li></ul><div style="margin-left: 2em"></div>
+
+<span style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">Επικοινωνήστε με την</span> <span lang="EN-US" style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">ENERGY</span> <span lang="EN-US" style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">FIRST</span> <span style="font-size: 11pt; line-height: 150%; font-family: Verdana, sans-serif;">σήμερα για δωρεάν
+τεχνοοικονομική προμελέτη του κτηρίου σας.</span><p><br></p>]]>
+        </article>
+        <article id="13" category="2" title="New Page" alias="article-12" path="/υπηρεσιεσ/τεχνικοσ-ασφαλειασ" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="14" category="2" title="New Page" alias="article-13" path="/υπηρεσιεσ/ημ-μελετεσ" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="15" category="2" title="New Page" alias="article-14" path="/υπηρεσιεσ/χρηματοδοτικα-προγραμματα" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="16" category="2" title="New Page" alias="article-15" path="/υπηρεσιεσ/χρηματοδοτικα-προγραμματα/εξοικονομω-εσπα" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="17" category="2" title="New Page" alias="article-16" path="/συνεργατεσ" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="18" category="2" title="New Page" alias="article-17" path="/συνεργατεσ/business-first" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="19" category="2" title="New Page" alias="article-18" path="/επικοινωνια" description="" keywords="">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+    </articles>
+    <menus>
+        <menu id="1" name="ct-horizontal-menu" title="Content / Horizontal Menu"/>
+        <menu id="2" name="ct-vertical-menu" title="Content / Vertical Menu"/>
+        <menu id="3" name="ct-special-menu" title="Content / Special Menu"/>
+    </menus>
+    <menuitems>
+        <menuitem id="1" menu="ct-horizontal-menu" title="ΑΡΧΙΚΗ" alias="ct-menu-item-1" path="/αρχικη" menutype="hmenu" type="single-article" article="2" showTitle="no" category="1" default="1"/>
+        <menuitem id="2" menu="ct-vertical-menu" title="ΑΡΧΙΚΗ" alias="ct-menu-item-2" path="/αρχικη" menutype="vmenu" type="single-article" article="2" showTitle="no" category="1"/>
+        <menuitem id="3" menu="ct-horizontal-menu" title="ΕΤΑΙΡΕΙΑ" alias="ct-menu-item-3" path="/εταιρεια" menutype="hmenu" type="single-article" article="3" showTitle="no" category="1"/>
+        <menuitem id="4" menu="ct-vertical-menu" title="ΕΤΑΙΡΕΙΑ" alias="ct-menu-item-4" path="/εταιρεια" menutype="vmenu" type="single-article" article="3" showTitle="no" category="1"/>
+        <menuitem id="5" menu="ct-horizontal-menu" title="ΥΠΗΡΕΣΙΕΣ" alias="ct-menu-item-5" path="/υπηρεσιεσ" menutype="hmenu" type="single-article" article="4" showTitle="no" category="1"/>
+        <menuitem id="6" menu="ct-vertical-menu" title="ΥΠΗΡΕΣΙΕΣ" alias="ct-menu-item-6" path="/υπηρεσιεσ" menutype="vmenu" type="single-article" article="4" showTitle="no" category="1"/>
+        <menuitem id="7" menu="ct-horizontal-menu" title="ΕΝΕΡΓΕΙΑΚΗ ΑΝΑΒΑΘΜΙΣΗ ΚΤΗΡΙΩΝ" alias="ct-menu-item-7" path="/υπηρεσιεσ/ενεργειακη-αναβαθμιση-κτηριων" menutype="hmenu" type="single-article" parent="5" article="5" showTitle="no" category="1"/>
+        <menuitem id="8" menu="ct-vertical-menu" title="ΕΝΕΡΓΕΙΑΚΗ ΑΝΑΒΑΘΜΙΣΗ ΚΤΗΡΙΩΝ" alias="ct-menu-item-8" path="/υπηρεσιεσ/ενεργειακη-αναβαθμιση-κτηριων" menutype="vmenu" type="single-article" parent="6" article="5" showTitle="no" category="1"/>
+        <menuitem id="9" menu="ct-horizontal-menu" title="ΟΙΚΙΑΚΑ ΕΠΑΓΓΕΛΜΑΤΙΚΑ" alias="ct-menu-item-9" path="/υπηρεσιεσ/ενεργειακη-αναβαθμιση-κτηριων/οικιακα-επαγγελματικα" menutype="hmenu" type="single-article" parent="7" article="6" showTitle="no" category="1"/>
+        <menuitem id="10" menu="ct-vertical-menu" title="ΟΙΚΙΑΚΑ ΕΠΑΓΓΕΛΜΑΤΙΚΑ" alias="ct-menu-item-10" path="/υπηρεσιεσ/ενεργειακη-αναβαθμιση-κτηριων/οικιακα-επαγγελματικα" menutype="vmenu" type="single-article" parent="8" article="6" showTitle="no" category="1"/>
+        <menuitem id="11" menu="ct-horizontal-menu" title="ΕΝΕΡΓΕΙΑΚΑ ΠΙΣΤΟΠΟΙΗΤΙΚΑ" alias="ct-menu-item-11" path="/υπηρεσιεσ/ενεργειακα-πιστοποιητικα" menutype="hmenu" type="single-article" parent="5" article="7" showTitle="no" category="1"/>
+        <menuitem id="12" menu="ct-vertical-menu" title="ΕΝΕΡΓΕΙΑΚΑ ΠΙΣΤΟΠΟΙΗΤΙΚΑ" alias="ct-menu-item-12" path="/υπηρεσιεσ/ενεργειακα-πιστοποιητικα" menutype="vmenu" type="single-article" parent="6" article="7" showTitle="no" category="1"/>
+        <menuitem id="13" menu="ct-horizontal-menu" title="ΗΛΙΑΚΑ ΣΥΣΤΗΜΑΤΑ" alias="ct-menu-item-13" path="/υπηρεσιεσ/ηλιακα-συστηματα" menutype="hmenu" type="single-article" parent="5" article="8" showTitle="no" category="1"/>
+        <menuitem id="14" menu="ct-vertical-menu" title="ΗΛΙΑΚΑ ΣΥΣΤΗΜΑΤΑ" alias="ct-menu-item-14" path="/υπηρεσιεσ/ηλιακα-συστηματα" menutype="vmenu" type="single-article" parent="6" article="8" showTitle="no" category="1"/>
+        <menuitem id="15" menu="ct-horizontal-menu" title="ΖΝΧ ΠΙΣΙΝΑ ΗΛΙΑΚΗ ΘΕΡΜΑΝΣΗ" alias="ct-menu-item-15" path="/υπηρεσιεσ/ηλιακα-συστηματα/ζνχ-πισινα-ηλιακη-θερμανση" menutype="hmenu" type="single-article" parent="13" article="9" showTitle="no" category="1"/>
+        <menuitem id="16" menu="ct-vertical-menu" title="ΖΝΧ ΠΙΣΙΝΑ ΗΛΙΑΚΗ ΘΕΡΜΑΝΣΗ" alias="ct-menu-item-16" path="/υπηρεσιεσ/ηλιακα-συστηματα/ζνχ-πισινα-ηλιακη-θερμανση" menutype="vmenu" type="single-article" parent="14" article="9" showTitle="no" category="1"/>
+        <menuitem id="17" menu="ct-horizontal-menu" title="ΜΕΛΕΤΕΣ ΠΥΡΑΣΦΑΛΕΙΑΣ" alias="ct-menu-item-17" path="/υπηρεσιεσ/μελετεσ-πυρασφαλειασ" menutype="hmenu" type="single-article" parent="5" article="10" showTitle="no" category="1"/>
+        <menuitem id="18" menu="ct-vertical-menu" title="ΜΕΛΕΤΕΣ ΠΥΡΑΣΦΑΛΕΙΑΣ" alias="ct-menu-item-18" path="/υπηρεσιεσ/μελετεσ-πυρασφαλειασ" menutype="vmenu" type="single-article" parent="6" article="10" showTitle="no" category="1"/>
+        <menuitem id="19" menu="ct-horizontal-menu" title="ΘΕΡΜΑΝΣΗ ΚΛΙΜΑΤΙΣΜΟΣ" alias="ct-menu-item-19" path="/υπηρεσιεσ/θερμανση-κλιματισμοσ" menutype="hmenu" type="single-article" parent="5" article="11" showTitle="no" category="1"/>
+        <menuitem id="20" menu="ct-vertical-menu" title="ΘΕΡΜΑΝΣΗ ΚΛΙΜΑΤΙΣΜΟΣ" alias="ct-menu-item-20" path="/υπηρεσιεσ/θερμανση-κλιματισμοσ" menutype="vmenu" type="single-article" parent="6" article="11" showTitle="no" category="1"/>
+        <menuitem id="21" menu="ct-horizontal-menu" title="ΘΕΡΜΑΝΣΗ ΚΛΙΜΑΤΙΣΜΟΣ" alias="ct-menu-item-21" path="/υπηρεσιεσ/θερμανση-κλιματισμοσ/θερμανση-κλιματισμοσ" menutype="hmenu" type="single-article" parent="19" article="12" showTitle="no" category="1"/>
+        <menuitem id="22" menu="ct-vertical-menu" title="ΘΕΡΜΑΝΣΗ ΚΛΙΜΑΤΙΣΜΟΣ" alias="ct-menu-item-22" path="/υπηρεσιεσ/θερμανση-κλιματισμοσ/θερμανση-κλιματισμοσ" menutype="vmenu" type="single-article" parent="20" article="12" showTitle="no" category="1"/>
+        <menuitem id="23" menu="ct-horizontal-menu" title="ΤΕΧΝΙΚΟΣ ΑΣΦΑΛΕΙΑΣ" alias="ct-menu-item-23" path="/υπηρεσιεσ/τεχνικοσ-ασφαλειασ" menutype="hmenu" type="single-article" parent="5" article="13" showTitle="no" category="1"/>
+        <menuitem id="24" menu="ct-vertical-menu" title="ΤΕΧΝΙΚΟΣ ΑΣΦΑΛΕΙΑΣ" alias="ct-menu-item-24" path="/υπηρεσιεσ/τεχνικοσ-ασφαλειασ" menutype="vmenu" type="single-article" parent="6" article="13" showTitle="no" category="1"/>
+        <menuitem id="25" menu="ct-horizontal-menu" title="Η/Μ ΜΕΛΕΤΕΣ" alias="ct-menu-item-25" path="/υπηρεσιεσ/ημ-μελετεσ" menutype="hmenu" type="single-article" parent="5" article="14" showTitle="no" category="1"/>
+        <menuitem id="26" menu="ct-vertical-menu" title="Η/Μ ΜΕΛΕΤΕΣ" alias="ct-menu-item-26" path="/υπηρεσιεσ/ημ-μελετεσ" menutype="vmenu" type="single-article" parent="6" article="14" showTitle="no" category="1"/>
+        <menuitem id="27" menu="ct-horizontal-menu" title="ΧΡΗΜΑΤΟΔΟΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" alias="ct-menu-item-27" path="/υπηρεσιεσ/χρηματοδοτικα-προγραμματα" menutype="hmenu" type="single-article" parent="5" article="15" showTitle="no" category="1"/>
+        <menuitem id="28" menu="ct-vertical-menu" title="ΧΡΗΜΑΤΟΔΟΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ" alias="ct-menu-item-28" path="/υπηρεσιεσ/χρηματοδοτικα-προγραμματα" menutype="vmenu" type="single-article" parent="6" article="15" showTitle="no" category="1"/>
+        <menuitem id="29" menu="ct-horizontal-menu" title="ΕΞΟΙΚΟΝΟΜΩ ΕΣΠΑ" alias="ct-menu-item-29" path="/υπηρεσιεσ/χρηματοδοτικα-προγραμματα/εξοικονομω-εσπα" menutype="hmenu" type="single-article" parent="27" article="16" showTitle="no" category="1"/>
+        <menuitem id="30" menu="ct-vertical-menu" title="ΕΞΟΙΚΟΝΟΜΩ ΕΣΠΑ" alias="ct-menu-item-30" path="/υπηρεσιεσ/χρηματοδοτικα-προγραμματα/εξοικονομω-εσπα" menutype="vmenu" type="single-article" parent="28" article="16" showTitle="no" category="1"/>
+        <menuitem id="31" menu="ct-horizontal-menu" title="ΣΥΝΕΡΓΑΤΕΣ" alias="ct-menu-item-31" path="/συνεργατεσ" menutype="hmenu" type="single-article" article="17" showTitle="no" category="1"/>
+        <menuitem id="32" menu="ct-vertical-menu" title="ΣΥΝΕΡΓΑΤΕΣ" alias="ct-menu-item-32" path="/συνεργατεσ" menutype="vmenu" type="single-article" article="17" showTitle="no" category="1"/>
+        <menuitem id="33" menu="ct-horizontal-menu" title="BUSINESS FIRST" alias="ct-menu-item-33" path="/συνεργατεσ/business-first" menutype="hmenu" type="single-article" parent="31" article="18" showTitle="no" category="1"/>
+        <menuitem id="34" menu="ct-vertical-menu" title="BUSINESS FIRST" alias="ct-menu-item-34" path="/συνεργατεσ/business-first" menutype="vmenu" type="single-article" parent="32" article="18" showTitle="no" category="1"/>
+        <menuitem id="35" menu="ct-horizontal-menu" title="ΕΠΙΚΟΙΝΩΝΙΑ" alias="ct-menu-item-35" path="/επικοινωνια" menutype="hmenu" type="single-article" article="19" showTitle="no" category="1"/>
+        <menuitem id="36" menu="ct-vertical-menu" title="ΕΠΙΚΟΙΝΩΝΙΑ" alias="ct-menu-item-36" path="/επικοινωνια" menutype="vmenu" type="single-article" article="19" showTitle="no" category="1"/>
+        <menuitem id="37" menu="ct-special-menu" title="Special Blog Page" alias="ct-menu-item-37" menutype="menu" type="category-blog-layout" category="1"/>
+        <menuitem id="38" menu="ct-special-menu" title="Special Single Page" alias="ct-menu-item-38" menutype="menu" type="single-article" showTitle="yes" category="1"/>
+    </menuitems>
+    <modules>
+        <module id="1" title="Content / Horizontal Menu" showTitle="true" position="position-1" type="menu" menu="ct-horizontal-menu"/>
+        <module id="2" title="VMenu" showTitle="true" position="position-7" style="art-vmenu" menu="ct-vertical-menu" type="menu"/>
+        <module id="3" title="Footer1" showTitle="false" position="position-31" type="custom">
+            <![CDATA[
+        <p style="font: 18px Arial; color: #444444">INFO</p>
+        <br>
+        <ul>
+        <li><a href="#">Welcome</a></li>
+        <li><a href="#">People</a></li>
+        <li><a href="#">Management</a></li>
+        </ul>
+    ]]>
+        </module>
+        <module id="4" title="Footer2" showTitle="false" position="position-32" type="custom">
+            <![CDATA[
+        <p style="font: 18px Arial; color: #444444">LOCATION</p>
+        <br>
+        <ul>
+        <li><a href="#">Map</a></li>
+        <li><a href="#">Address</a></li>
+        <li><a href="#">Contact Us</a></li>
+        </ul>
+    ]]>
+        </module>
+        <module id="5" title="Footer3" showTitle="false" position="position-33" type="custom">
+            <![CDATA[
+        <p style="font: 18px Arial; color: #444444">ABOUT</p>
+        <br>
+        <ul>
+        <li><a href="#">Company</a></li>
+        <li><a href="#">Terms</a></li>
+        </ul>
+    ]]>
+        </module>
+        <module id="6" title="Footer4" showTitle="false" position="position-34" type="custom">
+            <![CDATA[
+        <p style="text-align:right"><br>
+        <br>Energy First © 2014-2015</p>
+    ]]>
+        </module>
+    </modules>
+    <parameters>
+        <parameter id="1" name="siteTitle" value="Enter Site Title"/>
+        <parameter id="2" name="siteSlogan" value="Enter Site Slogan"/>
+    </parameters>
+</data>
