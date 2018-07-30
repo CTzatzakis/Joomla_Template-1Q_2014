@@ -8,6 +8,10 @@ Time period: 02/2014 - 03/2017
 
 Web application development for an Engineering Company
 
+## Preview
+
+![Template preview](https://github.com/CTzatzakis/Joomla_Template-1Q_2014/raw/master/template_preview1.png)
+
 ## Website description
 
 A web application for an Engineering Company, promoting renewable energy applications and efficiency of indoor environments (Houses, Offices, Storage Units etc.) and running maintenance. 
