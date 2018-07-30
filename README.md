@@ -49,7 +49,7 @@ Please use the following steps to utilize image slide show
 
     Title - Show Title: No
     
-    Position: position-19
+    Position: position-20
     
     Custom Output -> chose html and type:
     
