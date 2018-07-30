@@ -13,9 +13,11 @@
         <folder>fields</folder>
         <folder>html</folder>
         <folder>images</folder>
+        <folder>js</folder>
         <folder>language</folder>
         <folder>library</folder>
-        <file>ReadMe.txt</file>
+        <file>README.md</file>
+        <file>LICENSE</file>
         <file>component.php</file>
         <file>functions.php</file>
         <file>index.html</file>
