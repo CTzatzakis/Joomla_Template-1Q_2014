@@ -51,7 +51,7 @@ Please use the following steps to utilize image slide show
     
     Position: position-20
     
-    Custom Output -> chose html and type:
+    Custom Output -> choose html and type:
     
     ```
    <div id="slideshow">
@@ -115,6 +115,8 @@ Here are sample steps to configure custom footer:
     Custom Output: (the desired footer content)
     
 4. Save your changes.
+
+You can now use the newly created module for further footer customizations without utilizing additional modules.
 
 ## License
 
