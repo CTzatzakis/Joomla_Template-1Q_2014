@@ -37,6 +37,43 @@ To install an exported and zipped template via the Joomla administration panel p
 
 For more information please visit http://docs.joomla.org/How_to_install_templates
 
+### Utilizing Image Slide Show
+-------------------------------
+Please use the following steps to utilize image slide show
+
+1. Go to Joomla Administrator (www.your-site.com/administrator) -> Extensions -> Module Manager.
+
+2. Click "New", select "Custom HTML", then select "Next".
+
+3. In the module properties specify:
+
+    Title - Show Title: No
+    
+    Position: position-19
+    
+    Custom Output -> chose html and type:
+    
+    ```
+   <div id="slideshow">
+   <div id="slides">
+   <div class="slides_container">
+   
+   <a href="images/slider/[imagename].jpg"><img src="images/slider/[imagename].jpg" border="0" alt="" /></a> 
+   <!-- Repeat the above step as necessary -->
+  
+   </div>
+   <div class="slides_nav"></div>
+   </div>
+   </div>
+    ```
+    
+4. Below on Menu Assignment
+
+   Module Assignment -> Only on the pages selected (or as required)
+   Horizontal Menu -> Main (or as required)
+
+4. Save your changes.
+
 ### Utilizing Menus
 -------------------------------
 
