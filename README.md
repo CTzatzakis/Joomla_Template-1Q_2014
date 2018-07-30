@@ -10,7 +10,7 @@ Web application development for an Engineering Company
 
 ## Preview
 
-![Template preview](https://github.com/CTzatzakis/Joomla_Template-1Q_2014/raw/master/template_preview1.png)
+![Template preview](https://github.com/CTzatzakis/Joomla_Template-1Q_2014/raw/master/template_preview1.png) ![Template preview](https://github.com/CTzatzakis/Joomla_Template-1Q_2014/raw/master/template_preview2.png)
 
 ## Website description
 
