@@ -1,3 +1,4 @@
+
 .responsive body
 {
    min-width: 240px;
@@ -77,14 +78,13 @@
    max-width: none;
    margin-right: 1% !important;
    margin-left: 1% !important;
-   margin-top: 1% !important;
 }
 
 #art-resp {
    display: none;
 }
 
-@media all and (max-width: 899px)
+@media all and (max-width: 999px)
 {
     #art-resp, #art-resp-t { display: block; }
     #art-resp-m { display: none; }
@@ -183,7 +183,6 @@
 .responsive nav.art-nav
 {
    min-width: 1%;
-   margin-top: 1%;
 }
 
 .responsive .art-nav 
@@ -228,7 +227,6 @@
 {
    margin-top: 1px !important;
    margin-bottom: 1px !important;
-   text-align: center !important;
    height: auto;
    white-space: normal;
 }
@@ -262,6 +260,15 @@
    display: none !important;
    position: relative !important;
    visibility: visible !important;
+}
+
+.responsive .art-nav ul.art-hmenu li.active>ul
+{
+   display: block !important;
+}
+.responsive .art-nav ul.art-hmenu ul li.active>a
+{
+   font-weight: bold;
 }
 
 .art-nav .art-menu-btn 
@@ -338,7 +345,7 @@
   
 .responsive .art-nav ul.art-hmenu>li>ul
 {
-   padding: 4px;
+   padding: 5px;
 }
   
 .responsive .art-nav ul.art-hmenu>li>ul:before
@@ -383,7 +390,8 @@
 
 .responsive .art-footer-inner
 {
-   min-width: 0;
+   width: auto;
+   padding: 2% !important;
 }
 .responsive .art-footer
 {

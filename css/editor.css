@@ -1,6 +1,14 @@
 body
 {
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAVklEQVRoge3PgQkAIRDAsPf33/lcQjBIM0G7Zma+B/y3A05pRNOIphFNI5pGNI1oGtE0omlE04imEU0jmkY0jWga0TSiaUTTiKYRTSOaRjSNaBrRNKLZPMQEYJDY5xwAAAAASUVORK5CYII=), #FFFFFF;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), #FFFFFF url('../images/page.png') scroll;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), linear-gradient(top, rgba(198, 198, 198, 0.12) 0, rgba(244, 244, 244, 0.08) 175px) no-repeat, url('../images/page.png'), linear-gradient(top, #D9D9D9 0, #F7F7F7 175px) no-repeat, #FFFFFF;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), -webkit-linear-gradient(top, rgba(198, 198, 198, 0.12) 0, rgba(244, 244, 244, 0.08) 175px) no-repeat, url('../images/page.png'), -webkit-linear-gradient(top, #D9D9D9 0, #F7F7F7 175px) no-repeat, #FFFFFF;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), -moz-linear-gradient(top, rgba(198, 198, 198, 0.12) 0, rgba(244, 244, 244, 0.08) 175px) no-repeat, url('../images/page.png'), -moz-linear-gradient(top, #D9D9D9 0, #F7F7F7 175px) no-repeat, #FFFFFF;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), -o-linear-gradient(top, rgba(198, 198, 198, 0.12) 0, rgba(244, 244, 244, 0.08) 175px) no-repeat, url('../images/page.png'), -o-linear-gradient(top, #D9D9D9 0, #F7F7F7 175px) no-repeat, #FFFFFF;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), -ms-linear-gradient(top, rgba(198, 198, 198, 0.12) 0, rgba(244, 244, 244, 0.08) 175px) no-repeat, url('../images/page.png'), -ms-linear-gradient(top, #D9D9D9 0, #F7F7F7 175px) no-repeat, #FFFFFF;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAAWElEQVRoge3PAQnAMBDAwK7GK/ktzMSgYdwpSJ6ZOesH9u2ArxipMVJjpMZIjZEaIzVGaozUGKkxUmOkxkiNkRojNUZqjNQYqTFSY6TGSI2RGiM1RmqM1LxALwOwjEnBuAAAAABJRU5ErkJggg==), linear-gradient(top, rgba(198, 198, 198, 0.12) 0, rgba(244, 244, 244, 0.08) 175px) no-repeat, url('../images/page.png'), linear-gradient(top, #D9D9D9 0, #F7F7F7 175px) no-repeat, #FFFFFF;
+  -svg-background: linear-gradient(top, rgba(198, 198, 198, 0.12) 0, rgba(244, 244, 244, 0.08) 175px) no-repeat, url('../images/page.png'), linear-gradient(top, #D9D9D9 0, #F7F7F7 175px) no-repeat, #FFFFFF;
+  background-size: 100% 175px, auto, 100% 175px, auto !important;
   margin: 0 auto;
   font-size: 13px;
   font-family: Georgia, 'Times New Roman', Times, Serif;
@@ -446,7 +454,6 @@ blockquote p, blockquote p
 {
   margin: 0;
 }
-
 
 /* Compatibility rules for the default TinyMCE skin: */
 td 

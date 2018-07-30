@@ -3,7 +3,6 @@ defined('_JEXEC') or die;
 
 require_once dirname(dirname(dirname(dirname(__FILE__)))) . DIRECTORY_SEPARATOR . 'functions.php';
 
-
 JHtml::addIncludePath(JPATH_COMPONENT . '/helpers'); 
 
 Artx::load("Artx_Content");

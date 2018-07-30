@@ -3,7 +3,6 @@ defined('_JEXEC') or die;
 
 require_once dirname(dirname(dirname(dirname(__FILE__)))) . DIRECTORY_SEPARATOR . 'functions.php';
 
-
 Artx::load("Artx_Content");
 
 $view = new ArtxContent($this, $this->params);

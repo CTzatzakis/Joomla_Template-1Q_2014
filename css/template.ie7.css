@@ -38,28 +38,11 @@ ul.art-hmenu, ul.art-hmenu ul {
 }
 
 ul.art-hmenu>li:first-child {
-   padding-right:1px;
-}
-ul.art-hmenu>li{
-   zoom:expression(runtimeStyle.zoom=1,insertBefore(document.createElement('span'),firstChild).className='art-hmenu-separator');
-}
-ul.art-hmenu>li>span.art-hmenu-separator
-{
-   position:absolute;
-   display: block;
-   top:0;
-   left:  -1px;
-   width: 1px;
-   height: 45px;
-   background: url('../images/menuseparator.png') center center no-repeat;
-}
-ul.art-hmenu>li:first-child>span.art-hmenu-separator
-{
-   display:none;
+   padding-right:6px;
 }
 
-ul.art-hmenu ul, .desktop-nav ul.art-hmenu>li.ext:hover>a{
-   background-color: #E0E0E0 !important;
+ul.art-hmenu ul{
+   background-color: transparent !important;
 }
 
 .art-content-layout, .art-content-layout-row, .art-layout-cell 
@@ -80,7 +63,7 @@ ul.art-vmenu, ul.art-vmenu ul, ul.art-vmenu li{
 
 ul.art-vmenu ul 
 {
-   background-color: transparent;
+   background-color: #F5F5F5;
 }
 
 input[type="text"]
