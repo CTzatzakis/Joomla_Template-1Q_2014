@@ -2,7 +2,7 @@
 <!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
 <extension version="2.5" client="site" type="template" method="upgrade">
     <name>engineerTemplateByChris</name>
-    <creationDate>2014-03-14</creationDate>
+    <creationDate>2014-03-15</creationDate>
     <version>1.0</version>
     <author>Chris Tzatzakis</author>
     <authorUrl/>
@@ -62,8 +62,6 @@
     <config>
         <fields name="params" addfieldpath="/templates/engineertemplatebychris/fields">
             <fieldset name="basic">
-                <field name="siteTitle" type="text" size="50" label="TPL_SITE_TITLE" description="TPL_SITE_TITLE_DESCRIPTION"/>
-                <field name="siteSlogan" type="text" size="50" label="TPL_SITE_SLOGAN" description="TPL_SITE_SLOGAN_DESCRIPTION"/>
                 <field name="content" type="artcontent" label="TPL_CONTENT" text="TPL_INSTALL"/>
             </fieldset>
         </fields>
