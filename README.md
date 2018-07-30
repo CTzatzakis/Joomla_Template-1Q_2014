@@ -54,7 +54,7 @@ Please use the following steps to utilize image slide show
 
     Title - Show Title: No
     
-    Position: position-20
+    Position: position-20 (or as required)
     
     Custom Output -> choose html and type:
     
@@ -75,6 +75,7 @@ Please use the following steps to utilize image slide show
 4. Below on Menu Assignment
 
    Module Assignment -> Only on the pages selected (or as required)
+   
    Horizontal Menu -> Main (or as required)
 
 4. Save your changes.
