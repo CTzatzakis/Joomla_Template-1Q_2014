@@ -13,11 +13,11 @@ Slide show on main         |  Double menu
 :-------------------------:|:-------------------------:
 ![Template preview](https://github.com/CTzatzakis/Joomla_Template-1Q_2014/raw/master/template_preview1.png)  |  ![Template preview](https://github.com/CTzatzakis/Joomla_Template-1Q_2014/raw/master/template_preview2.png)
 
-## Website description
+## Website Description
 
 A web application for an Engineering Company, promoting renewable energy applications and efficiency of indoor environments (Houses, Offices, Storage Units etc.) and running maintenance. 
 
-## Development infrastructure
+## Development Infrastructure
 
 CMS: Joomla 2.5
 
@@ -64,7 +64,7 @@ Please use the following steps to utilize image slide show
    <div class="slides_container">
    
    <a href="images/slider/[imagename].jpg"><img src="images/slider/[imagename].jpg" border="0" alt="" /></a> 
-   <!-- Repeat the above step as necessary -->
+   <!-- Repeat the above line as necessary -->
   
    </div>
    <div class="slides_nav"></div>
